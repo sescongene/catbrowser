@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import BreedPage from "./pages/Breed.jsx";
+import BreedPage from "./pages/Homepage.jsx";
 import CatPage from "./pages/Cat.jsx";
 import {
   BrowserRouter as Router,
